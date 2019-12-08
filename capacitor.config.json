@@ -1,0 +1,8 @@
+{
+  "appId": "com.hasanadiguzel.ionic_capacitorkameraapp",
+  "appName": "ionic_capacitorKameraApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
